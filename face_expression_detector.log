@@ -1,0 +1,91 @@
+2025-08-09 21:25:39,141 - INFO - Starting Facial Expression Recognition project
+2025-08-09 21:25:48,349 - INFO - Validated directory /Users/nazmussakibsheam/GUB/Data-mining-lab/face_expression_detector/fer2013/train
+2025-08-09 21:25:48,350 - INFO - Validated directory /Users/nazmussakibsheam/GUB/Data-mining-lab/face_expression_detector/fer2013/test
+2025-08-09 21:25:49,019 - INFO - Built MobileNetV2 model
+2025-08-09 21:29:09,076 - INFO - Starting Facial Expression Recognition project
+2025-08-09 21:29:11,317 - INFO - Validated directory /Users/nazmussakibsheam/GUB/Data-mining-lab/face_expression_detector/fer2013/train
+2025-08-09 21:29:11,318 - INFO - Validated directory /Users/nazmussakibsheam/GUB/Data-mining-lab/face_expression_detector/fer2013/test
+2025-08-09 21:29:11,814 - INFO - Built MobileNetV2 model
+2025-08-09 21:30:05,327 - INFO - Starting Facial Expression Recognition project
+2025-08-09 21:30:08,382 - INFO - Validated directory /Users/nazmussakibsheam/GUB/Data-mining-lab/face_expression_detector/fer2013/train
+2025-08-09 21:30:08,383 - INFO - Validated directory /Users/nazmussakibsheam/GUB/Data-mining-lab/face_expression_detector/fer2013/test
+2025-08-09 21:30:08,867 - INFO - Built MobileNetV2 model
+2025-08-09 21:38:06,208 - INFO - Model training completed
+2025-08-09 21:38:37,552 - INFO - Validation Loss: 1.5924, Validation Accuracy: 0.3867
+2025-08-09 21:39:14,009 - INFO - Test Loss: 1.5721, Test Accuracy: 0.4018
+2025-08-09 21:39:14,164 - INFO - Plotted and saved training history
+2025-08-09 21:40:10,909 - INFO - Generated and saved confusion matrix
+2025-08-09 21:40:10,909 - INFO - Starting webcam feed for emotion detection. Press 'q' to quit.
+2025-08-09 21:40:26,136 - INFO - Recording video to output.avi
+2025-08-09 21:40:27,881 - ERROR - Failed to capture frame from webcam
+2025-08-09 21:40:27,935 - INFO - Stopped webcam feed
+2025-08-09 21:40:27,946 - INFO - Saved emotion history to emotion_history.csv
+2025-08-09 21:40:27,948 - INFO - Run 'streamlit run dashboard.py' to view the emotion dashboard.
+2025-08-09 21:44:37,480 - INFO - Starting Facial Expression Recognition project
+2025-08-09 21:45:28,722 - INFO - Starting Facial Expression Recognition project
+2025-08-09 21:45:30,626 - INFO - Validated directory /Users/nazmussakibsheam/GUB/Data-mining-lab/face_expression_detector/fer2013/train
+2025-08-09 21:45:30,627 - INFO - Validated directory /Users/nazmussakibsheam/GUB/Data-mining-lab/face_expression_detector/fer2013/test
+2025-08-09 21:45:31,308 - INFO - Built MobileNetV2 model
+2025-08-09 21:50:23,687 - INFO - Starting Facial Expression Recognition project
+2025-08-09 21:50:37,758 - INFO - Validated directory /Users/nazmussakibsheam/GUB/Data-mining-lab/face_expression_detector/fer2013/train
+2025-08-09 21:50:37,759 - INFO - Validated directory /Users/nazmussakibsheam/GUB/Data-mining-lab/face_expression_detector/fer2013/test
+2025-08-09 21:50:45,160 - INFO - Loaded pre-trained model from facial_expression_model.keras
+2025-08-09 21:51:17,246 - INFO - Validation Loss: 1.6361, Validation Accuracy: 0.3564
+2025-08-09 21:51:54,592 - INFO - Test Loss: 1.6146, Test Accuracy: 0.3897
+2025-08-09 21:51:54,592 - INFO - No training history available for pre-trained model. Skipping history plot.
+2025-08-09 21:52:51,961 - INFO - Generated and saved confusion matrix
+2025-08-09 21:52:51,962 - INFO - Starting webcam feed for emotion detection. Press 'q' to quit.
+2025-08-09 21:53:03,348 - INFO - Recording video to output.avi
+2025-08-09 21:58:27,705 - INFO - Stopped webcam feed
+2025-08-09 21:58:27,737 - INFO - Saved emotion history to emotion_history.csv
+2025-08-09 21:58:27,740 - INFO - Run 'streamlit run dashboard.py' to view the emotion dashboard.
+2025-08-09 21:59:04,293 - INFO - Starting Facial Expression Recognition project
+2025-08-09 21:59:07,904 - INFO - Validated directory /Users/nazmussakibsheam/GUB/Data-mining-lab/face_expression_detector/fer2013/train
+2025-08-09 21:59:07,905 - INFO - Validated directory /Users/nazmussakibsheam/GUB/Data-mining-lab/face_expression_detector/fer2013/test
+2025-08-09 21:59:14,286 - INFO - Loaded pre-trained model from facial_expression_model.keras
+2025-08-09 21:59:45,225 - INFO - Validation Loss: 1.6370, Validation Accuracy: 0.3496
+2025-08-09 22:00:21,018 - INFO - Test Loss: 1.6146, Test Accuracy: 0.3897
+2025-08-09 22:00:21,019 - INFO - No training history available for pre-trained model. Skipping history plot.
+2025-08-09 22:01:16,902 - INFO - Generated and saved confusion matrix
+2025-08-09 22:01:16,902 - INFO - Starting webcam feed for emotion detection. Press 'q' to quit.
+2025-08-09 22:01:20,102 - INFO - Recording video to output.avi
+2025-08-09 22:02:29,819 - INFO - Starting Facial Expression Recognition project
+2025-08-09 22:02:32,138 - INFO - Validated directory /Users/nazmussakibsheam/GUB/Data-mining-lab/face_expression_detector/fer2013/train
+2025-08-09 22:02:32,139 - INFO - Validated directory /Users/nazmussakibsheam/GUB/Data-mining-lab/face_expression_detector/fer2013/test
+2025-08-09 22:02:43,691 - INFO - Loaded pre-trained model from facial_expression_model.keras
+2025-08-09 22:03:15,673 - INFO - Validation Loss: 1.6348, Validation Accuracy: 0.3607
+2025-08-09 22:03:50,885 - INFO - Test Loss: 1.6146, Test Accuracy: 0.3897
+2025-08-09 22:03:50,885 - INFO - No training history available for pre-trained model. Skipping history plot.
+2025-08-09 22:04:47,510 - INFO - Generated and saved confusion matrix
+2025-08-09 22:04:47,511 - INFO - Starting webcam feed for emotion detection. Press 'q' to quit.
+2025-08-09 22:04:51,420 - INFO - Recording video to output.avi
+2025-08-09 22:05:54,437 - INFO - Starting Facial Expression Recognition project
+2025-08-09 22:06:03,613 - INFO - Validated directory /Users/nazmussakibsheam/GUB/Data-mining-lab/face_expression_detector/fer2013/train
+2025-08-09 22:06:03,614 - INFO - Validated directory /Users/nazmussakibsheam/GUB/Data-mining-lab/face_expression_detector/fer2013/test
+2025-08-09 22:06:06,475 - INFO - Loaded pre-trained model from facial_expression_model.keras
+2025-08-09 22:06:38,048 - INFO - Validation Loss: 1.6354, Validation Accuracy: 0.3515
+2025-08-09 22:07:13,937 - INFO - Test Loss: 1.6146, Test Accuracy: 0.3897
+2025-08-09 22:07:13,937 - INFO - No training history available for pre-trained model. Skipping history plot.
+2025-08-09 22:08:10,065 - INFO - Generated and saved confusion matrix
+2025-08-09 22:08:10,066 - INFO - Starting webcam feed for emotion detection. Press 'q' to quit.
+2025-08-09 22:08:13,786 - INFO - Recording video to output.avi
+2025-08-09 22:09:20,489 - INFO - Stopped webcam feed
+2025-08-09 22:09:20,499 - INFO - Saved emotion history to emotion_history.csv
+2025-08-09 22:09:20,503 - INFO - Run 'streamlit run dashboard.py' to view the emotion dashboard.
+2025-08-09 22:19:35,555 - INFO - Starting Facial Expression Recognition project
+2025-08-09 22:19:40,715 - INFO - Testing emoji rendering
+2025-08-09 22:19:40,856 - INFO - Displaying emoji test window. Press any key to exit.
+2025-08-09 22:19:52,791 - INFO - Emoji test completed
+2025-08-09 22:19:57,364 - INFO - Validated directory /Users/nazmussakibsheam/GUB/Data-mining-lab/face_expression_detector/fer2013/train
+2025-08-09 22:19:57,365 - INFO - Validated directory /Users/nazmussakibsheam/GUB/Data-mining-lab/face_expression_detector/fer2013/test
+2025-08-09 22:25:52,665 - INFO - Loaded pre-trained model from facial_expression_model.keras
+2025-08-09 22:26:44,361 - INFO - Starting Facial Expression Recognition project
+2025-08-09 22:26:49,057 - INFO - Testing emoji rendering
+2025-08-09 22:26:49,069 - INFO - Using font: Arial Unicode
+2025-08-09 22:26:49,072 - INFO - Using font: Arial Unicode
+2025-08-09 22:26:49,075 - INFO - Using font: Arial Unicode
+2025-08-09 22:26:49,077 - INFO - Using font: Arial Unicode
+2025-08-09 22:26:49,080 - INFO - Using font: Arial Unicode
+2025-08-09 22:26:49,082 - INFO - Using font: Arial Unicode
+2025-08-09 22:26:49,086 - INFO - Using font: Arial Unicode
+2025-08-09 22:26:49,104 - INFO - Displaying emoji test window. Press any key to exit.
